@@ -1,9 +1,4 @@
----
-title: "EES 405 GROUP WORK"
-author: "IAN MURITH"
-date: "2023-10-24"
-output: 
----
+
 
 ```{r }
 waiting_time <- c(16,30,17,22,31,11,19,18,8)
